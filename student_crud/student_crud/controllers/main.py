@@ -2,7 +2,6 @@
 from odoo import http
 from odoo.http import request
 
-print("--- Loading Student CRUD Controllers ---")
 
 class StudentController(http.Controller):
 
